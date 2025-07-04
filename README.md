@@ -21,6 +21,7 @@ Once you run the project locally, you’ll see a simple dropdown like this:
 </select>
 ```
 📁 Folder Structure
+```
 src/
 ├── App.jsx              
 ├── main.jsx           
@@ -35,6 +36,7 @@ src/
 ├── useref2.jsx
 ├── useState.jsx
 ├── useTransitionState.jsx
+```
 
 📦 Technologies Used
 - React.js (Vite setup)
